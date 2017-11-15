@@ -101,5 +101,10 @@ h2 span {
   background-color: #f84342;
   }
 
+/*hide asterisk in modal form*/
+abbr[title="required"] {
+  display: none;
+}
+
 
 
